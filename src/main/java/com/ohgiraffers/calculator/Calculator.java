@@ -1,4 +1,4 @@
-package com.ohgiraffers;
+package com.ohgiraffers.calculator;
 
 public interface Calculator {
 

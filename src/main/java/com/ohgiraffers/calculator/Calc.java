@@ -1,4 +1,4 @@
-package com.ohgiraffers;
+package com.ohgiraffers.calculator;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
