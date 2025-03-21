@@ -1,3 +1,5 @@
+package com.ohgiraffers;
+
 public class Barista {
     CoffeeMachine machine = new CoffeeMachine();
 
