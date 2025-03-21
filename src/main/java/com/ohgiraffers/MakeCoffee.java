@@ -1,5 +1,3 @@
-package com.ohgiraffers;
-
 import java.util.Scanner;
 
 public class MakeCoffee {

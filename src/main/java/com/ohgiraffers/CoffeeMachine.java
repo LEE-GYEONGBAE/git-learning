@@ -1,5 +1,3 @@
-package com.ohgiraffers;
-
 public class CoffeeMachine {
     private boolean isOn;
     private int coffee;
